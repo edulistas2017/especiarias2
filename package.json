@@ -1,0 +1,23 @@
+{
+  "name": "espec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edulistas2017/estefespeciarias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edulistas2017/estefespeciarias/issues"
+  },
+  "homepage": "https://github.com/edulistas2017/estefespeciarias#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
