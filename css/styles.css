@@ -128,6 +128,13 @@ a {
   /* animation */
   animation: slideFromRight 5s ease-in-out 1;
 }
+.banner-subtitle4 {
+  font-size: 1rem;
+  font-family: var(--slantedText);
+  color: var(--primaryColor);
+  /* animation */
+  animation: slideFromRight 5s ease-in-out 1;
+}
 .banner-title {
   text-transform: uppercase;
   font-size: 3.2rem;
@@ -350,6 +357,21 @@ a {
   text-transform: uppercase;
   letter-spacing: var(--letterSpacing);
   margin-bottom: 1rem;
+  font-size: 2rem;
+}
+.product-title2 {
+  color: var(--mainWhite);
+  text-transform: uppercase;
+  letter-spacing: var(--letterSpacing);
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+.product-title3 {
+  color: var(--mainWhite);
+  text-transform: uppercase;
+  letter-spacing: var(--letterSpacing);
+  margin-bottom: 1rem;
+  font-size: 0.5rem;
 }
 .product-price {
   color: var(--primaryColor);
