@@ -352,6 +352,10 @@ a {
   border-radius: 0.4rem;
   margin-bottom: 2rem;
 }
+.product-container:hover .product-img {
+  opacity: 0.75;
+  transform: scale(1.3);
+}
 .product-title {
   color: var(--mainWhite);
   text-transform: uppercase;
