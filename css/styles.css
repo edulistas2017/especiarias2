@@ -421,13 +421,13 @@ a {
 .contact-title {
   color: var(--primaryColor);
   font-family: var(--slantedText);
-  text-transform: uppercase;
+  text-transform: capitalize;
   letter-spacing: calc(var(--letterSpacing) * 1.3);
   font-size: 1.6rem;
   margin-bottom: 0.5rem;
 }
 .contact-text {
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 .form-control {
   display: block;
