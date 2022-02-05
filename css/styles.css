@@ -107,7 +107,7 @@ a {
 }
 /* header */
 .header {
-  min-height: 100vh;
+  min-height: 300vh;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
     url("../images/main-bcg.jpeg") center/cover no-repeat fixed;
   position: relative;
