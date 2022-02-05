@@ -110,6 +110,7 @@ a {
   min-height: 60vh;
   background: url("../images/main-bcg.jpeg") center/cover no-repeat fixed;
   position: relative;
+  height: auto;
 }
 /* banner */
 .banner {
