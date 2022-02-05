@@ -360,6 +360,7 @@ a {
   color: var(--mainWhite);
   text-transform: uppercase;
   letter-spacing: var(--letterSpacing);
+  text-align: center;
   margin-bottom: 1rem;
   font-size: 2rem;
 }
@@ -379,6 +380,8 @@ a {
 }
 .product-price {
   color: var(--primaryColor);
+  background-color:#FFFF00;
+  text-align: center;
   letter-spacing: var(--letterSpacing);
   font-family: var(--slantedText);
 }
