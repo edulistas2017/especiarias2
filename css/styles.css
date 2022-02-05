@@ -108,7 +108,15 @@ a {
 /* header */
 .header {
   min-height: 60vh;
-  background: url("../images/main-bcg.jpeg") center/cover no-repeat fixed;
+  /* background: url("../images/main-bcg.jpeg") center/cover no-repeat fixed; */
+  background: url("../images/main-bcg.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
   position: relative;
   height: auto;
 }
