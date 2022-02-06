@@ -322,6 +322,13 @@ a {
   border-radius: 1rem;
   overflow: hidden;
 }
+.about-picture-container2 {
+  background: var(--primaryColor);
+  border: 0.5rem solid var(--primaryColor);
+  border-radius: 1rem;
+  overflow: hidden;
+  width: 50%;
+}
 .about-picture {
   width: 100%;
   display: block;
