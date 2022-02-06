@@ -467,6 +467,7 @@ a {
   }
 }
 /* end of products */
+
 /* contact  */
 .contact {
   padding-top: 2rem;
@@ -484,7 +485,9 @@ a {
   margin-bottom: 0.5rem;
 }
 .contact-text {
- /*  text-transform: capitalize; */
+ /*  text-transform: capitalize;
+  letter-spacing: var(--letterSpacing); */
+  font-size: 1rem;
 }
 .form-control {
   display: block;
@@ -515,6 +518,7 @@ a {
 }
 /* end of contact  */
 /* footer */
+
 .footer {
   background: var(--mainDark);
   text-align: center;
