@@ -139,8 +139,8 @@ a {
 .banner-subtitle-header {
   font-size: 2rem;
   font-family: var(--slantedText);
-  color: var(--primaryColor);
-  background-color:#FFFF00;
+  color: var(--mainWhite);
+  background-color:rgba(250, 126, 25, 0.877);
   /* animation */
   animation: slideFromRight 5s ease-in-out 1;
 }
@@ -173,7 +173,7 @@ a {
   text-transform: uppercase;
   font-size: 3.2rem;
   color: var(--mainWhite);
-  background-color:#d1155d;
+  background-color:rgba(250, 126, 25, 0.877);
   margin-top: 2.5rem;
   line-height: 1.3;
   /* animation */
